@@ -1,0 +1,10 @@
+{
+	"name": "algosplain",
+	"description": "Documentation for algorithms and data structures",
+	"author": "kevlu8",
+	"repository": "kevlu8/algosplain",
+	"dependencies": {
+
+	},
+	"private": true
+}
